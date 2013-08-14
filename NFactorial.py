@@ -9,7 +9,6 @@ def Find5(n):
 	return z
 
 if __name__ == '__main__':
-
 	n=raw_input('input a postive int number:')
 	if str.isdigit(n):
 		n=int(n)
